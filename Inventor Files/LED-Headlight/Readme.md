@@ -3,7 +3,7 @@
 #### I wanted to solve Problem that I couldn't properly watcht the road when it is dark outside. So I build this LED-Headlight,
 #### which perfectly fits beneath the front of the Board
 
-<img src="/Photos/IMG_20170927_134837_HDR.jpg" width="500">
+<img src="https://github.com/VinFar/Electric-Longboard/blob/master/Photos/IMG_20170927_134837_HDR.jpg" width="500">
 
 I scanned the outline of the bottom layer and converted it into a 2D Frame.
 Then i took [this](http://www.ebay.de/itm/LED-Linse-Optik-Reflektor-10-Stck-Linsen-30-f%C3%BCr-1W-3W-5W-Power-LED-Leds-Lens/182454739604?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2648) LED Lenses with an angle of 30° and made a 3D model where the Lenses fit in.
@@ -36,15 +36,14 @@ A timelapse Video of the 3D Printing is here(click! this is only a gif):
 
 
 
-<img src="../Inventor%20Files/LED-Headlight/1.PNG" width="500">
-<img src="../Inventor%20Files/LED-Headlight/2.PNG" width="500">
-<img src="../Inventor%20Files/LED-Headlight/3.PNG" width="500">
-<img src="../Inventor%20Files/LED-Headlight/4.PNG" width="500">
-<img src="../Inventor%20Files/LED-Headlight/5.PNG" width="500">
-<img src="../Inventor%20Files/LED-Headlight/6.PNG" width="500">
-<img src="../Photos/IMG_20170927_135013_HDR.jpg" width="500">
-
-<img src="../Photos/IMG_20170927_140043_HDR.jpg" width="500">
+<img src="/Inventor%20Files/LED-Headlight/1.PNG" width="500">
+<img src="/Inventor%20Files/LED-Headlight/2.PNG" width="500">
+<img src="/Inventor%20Files/LED-Headlight/3.PNG" width="500">
+<img src="/Inventor%20Files/LED-Headlight/4.PNG" width="500">
+<img src="/Inventor%20Files/LED-Headlight/5.PNG" width="500">
+<img src="/Inventor%20Files/LED-Headlight/6.PNG" width="500">
+<img src="/Photos/IMG_20170927_135013_HDR.jpg" width="500">
+<img src="/Photos/IMG_20170927_140043_HDR.jpg" width="500">
 
 
 
