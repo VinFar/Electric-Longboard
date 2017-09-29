@@ -4,9 +4,16 @@
 Also it gives a much cleaner look.
 
 I have glued the Connecters with superglue into place and connected the batteries with copperwire and much solder.
-Also i put the Mosfet for the LD Headlight in this case.
+
+Also I put the Mosfet for the LED Headlight in this case.
 
 `Version2: Added a cage around the XT60 Connectors`
+
+STL-Files:
+
+[Version 1](https://github.com/VinFar/Electric-Longboard/blob/master/Inventor%20Files/XT-60%20Box/V1.0.stl)
+
+[Version 2](https://github.com/VinFar/Electric-Longboard/blob/master/Inventor%20Files/XT-60%20Box/V2.0.stl)
 
 <img src="/Inventor%20Files/XT-60%20Box/1.PNG" width="500">
 <img src="https://github.com/VinFar/Electric-Longboard/blob/master/Photos/IMG_20170806_193908.jpg" width="500">
